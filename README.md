@@ -25,7 +25,7 @@ Please note that the San Francisco and New York font families are proprietary ty
 
 ## Download and Installation
 
-Simply [Download the GitHub Project as a ZIP file](http://https://github.com/bradleyhodges/SFWindows/archive/refs/heads/main.zip "Download the GitHub Project as a ZIP file"). All of the type faces variants are available as OTFs.
+Simply [Download the GitHub Project as a ZIP file](https://github.com/bradleyhodges/SFWindows/archive/refs/heads/main.zip "Download the GitHub Project as a ZIP file"). All of the type faces variants are available as OTFs.
 
 ## License
 
