@@ -19,20 +19,20 @@ If you'd prefer not to download the entire repository, you can optionally choose
 
 San Francisco is Apple's sans-serif typeface, introduced in 2014. It has been the system font for iOS, macOS, and watchOS, known for its high legibility across various text sizes and screen resolutions. The typeface family comprises three main variants:
 
-- **SF Pro**: Optimized for iOS and macOS interfaces.
-- **SF Compact**: A variant of SF Pro, tailored for watchOS.
-- **SF Mono**: A monospaced variant of San Francisco.
+- [**SF Pro**](https://github.com/bradleyhodges/SFWindows/tree/main/SF%20Pro): Optimized for iOS and macOS interfaces.
+- [**SF Compact**](https://github.com/bradleyhodges/SFWindows/tree/main/SF%20Compact): A variant of SF Pro, tailored for watchOS.
+- [**SF Mono**](https://github.com/bradleyhodges/SFWindows/tree/main/SF%20Mono): A monospaced variant of San Francisco.
 
 This repository also includes all four of the [SF script extensions](https://developer.apple.com/fonts/#:~:text=SF%20script%20extensions,based%20on%20the%20point%20size.). Like San Francisco, these extensions to the Apple system font feature nine weights, a rounded variant, and variable optical sizes that automatically adjust spacing and proportion based on the point size. Each script extension is designed to fit with SF Pro for multilingual typesetting, while respecting the natural proportions for each script by adjusting weight, contrast, and vertical metrics. The included SF script extensions are:
 
-- **SF Arabic**: A contemporary interpretation of the Naskh style with a rational and flexible design.
-- **SF Armenian**: Designed with proportions that have been adjusted for a better visual balance in multilingual typesetting.
-- **SF Georgian**: Supports modern Georgian, Mkhedruli, and Mtavruli uppercase forms.
-- **SF Hebrew**: With full support of the Niqqud diacritical marks.
+- [**SF Arabic**](https://github.com/bradleyhodges/SFWindows/tree/main/SF%20Multilingual%20Extensions/SF%20Arabic): A contemporary interpretation of the Naskh style with a rational and flexible design.
+- [**SF Armenian**](https://github.com/bradleyhodges/SFWindows/tree/main/SF%20Multilingual%20Extensions/SF%20Armenian): Designed with proportions that have been adjusted for a better visual balance in multilingual typesetting.
+- [**SF Georgian**](https://github.com/bradleyhodges/SFWindows/tree/main/SF%20Multilingual%20Extensions/SF%20Georgian): Supports modern Georgian, Mkhedruli, and Mtavruli uppercase forms.
+- [**SF Hebrew**](https://github.com/bradleyhodges/SFWindows/tree/main/SF%20Multilingual%20Extensions/SF%20Hebrew): With full support of the Niqqud diacritical marks.
 
 ### New York
 
-New York is a serif typeface, introduced by Apple in 2019. It's a revival of the classic design, embodying the timeless traits of historical typefaces with a modern twist. The typeface pays homage to the early days of typography and is meticulously crafted for contemporary aesthetics and functionality.
+[New York](https://github.com/bradleyhodges/SFWindows/tree/main/New%20York) is a serif typeface, introduced by Apple in 2019. It's a revival of the classic design, embodying the timeless traits of historical typefaces with a modern twist. The typeface pays homage to the early days of typography and is meticulously crafted for contemporary aesthetics and functionality.
 
 ## Disclaimer
 
