@@ -3,7 +3,7 @@
 # SFWindows
 Apple typeface port (San Francisco and New York families) for Windows 10/11 and other non-Apple platforms.
 
-This repository contains all weights and styles of the latest San Francisco typeface constituents in both OpenType Font (OTF) and TrueType Font (TTF) formats, which is version `8.0.1.1780517465`, as of WWDC26. That said, Apple *rarely* makes changes to these fonts. For example, the New York typeface hasn't had any changes since WWDC22 (2022).
+This repository contains all weights and styles of the latest San Francisco typeface constituents in both OpenType Font (OTF) and TrueType Font (TTF) formats, which is version `27.0.1789118100`, as of WWDC26. That said, Apple *rarely* makes changes to these fonts. For example, the New York typeface hasn't had any changes since WWDC22 (2022).
 
 ## Quick Download TTFs
 
